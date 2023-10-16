@@ -1,5 +1,5 @@
 # PTSD
-Backtrack to previous positions with the first backtracking to the last, modifying and consolidating until unified as 1 letter.
+Backtrack to previous positions with the first backtracking to the last, modifying and consolidating until unified as 1 letter. Past a certain point it's shepherds speech
 
 Also does statistics, be sure to alter the edit axis if you plan on using it for art, there are 2 statistics plottings, the second one is best modified at scale
 
