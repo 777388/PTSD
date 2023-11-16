@@ -1,4 +1,7 @@
 # PTSD
+
+![Screenshot 2023-11-15 110438](https://github.com/777388/PTSD/assets/96343159/82a4dd25-5aa1-4ffd-80f8-c22b97ea1f8f)
+
 Backtrack to previous positions with the first backtracking to the last, modifying and consolidating until unified as 1 letter. Past a certain point it's shepherds speech
 
 Also does statistics, be sure to alter the edit axis if you plan on using it for art, there are 2 statistics plottings, the second one is best modified at scale
